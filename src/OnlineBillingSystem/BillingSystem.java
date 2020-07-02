@@ -321,7 +321,7 @@ public final class BillingSystem extends javax.swing.JFrame {
     }//GEN-LAST:event_Generate_ReciptActionPerformed
 public void Headder(){
         Print_area.setText("****************************************************************\n\n");
-        Print_area.setText(Print_area.getText()+"                               sHRINIDHI STORES                      \n\n");
+        Print_area.setText(Print_area.getText()+"                               SHRINIDHI STORES                      \n\n");
         Print_area.setText(Print_area.getText()+"****************************************************************");
         
         Date obj = new Date();
